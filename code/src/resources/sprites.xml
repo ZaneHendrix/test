@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:c3a9bd8049ed82ff16228020bf482f29$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="sprites.png" width="128" height="256">
+    <sprite n="avatar" x="2" y="2" w="33" h="32"/>
+    <sprite n="back" x="37" y="2" w="32" h="32"/>
+    <sprite n="dirt_floor" x="71" y="2" w="32" h="32"/>
+    <sprite n="eye" x="2" y="36" w="33" h="32"/>
+    <sprite n="floor" x="37" y="36" w="32" h="32"/>
+    <sprite n="forward" x="71" y="36" w="32" h="32"/>
+    <sprite n="ice" x="2" y="70" w="32" h="32"/>
+    <sprite n="placeholder_actor" x="36" y="70" w="32" h="32"/>
+    <sprite n="placeholder_entity" x="70" y="70" w="32" h="32"/>
+    <sprite n="sludge" x="2" y="104" w="32" h="32"/>
+    <sprite n="stone_floor" x="36" y="104" w="32" h="32"/>
+    <sprite n="wall" x="70" y="104" w="32" h="32"/>
+    <sprite n="worm" x="2" y="138" w="33" h="32"/>
+</TextureAtlas>
